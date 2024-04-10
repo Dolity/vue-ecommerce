@@ -3,7 +3,7 @@ import { RouterView } from "vue-router"
 </script>
 
 <template>
-  <div>
+  <div class="max-w-3xl mx-auto my-2">
     <RouterView />
   </div>
 </template>
